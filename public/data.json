@@ -1,0 +1,74 @@
+[
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerImg": "https://www.shutterstock.com/editorial/image-editorial/M7T3A40fM6DaE33fNzE3ODI=/shakib-al-hasan-bangladesh-during-icc-cricket-440nw-10320204cb.jpg",
+    "origin": "Bangladesh",
+    "playerType": "All-Rounder",
+    "bowlingStyle": "Left-arm Orthodox",
+    "battingStyle": "Left-handed",
+    "price": 1200
+  },
+  {
+    "playerName": "Virat Kohli",
+    "playerImg": "https://images.timesnownews.com/thumb/msid-151572581,thumbsize-25442,width-400,height-225,resizemode-75/151572581.jpg",
+    "origin": "India",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm Medium",
+    "battingStyle": "Right-handed",
+    "price": 1500
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerImg": "https://api.bdcrictime.com/Profile/babar-azam-12_10_2023.jpg",
+    "origin": "Pakistan",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm Off Break",
+    "battingStyle": "Right-handed",
+    "price": 1400
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerImg": "https://resources.cricket-australia.pulselive.com/photo-resources/2023/11/23/bd092a30-ab3f-43ad-822f-f80a9bf1ad24/rashid-khan.jpg?width=1600",
+    "origin": "Afghanistan",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm Leg Break",
+    "battingStyle": "Right-handed",
+    "price": 1300
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerImg": "https://cdn.britannica.com/35/264735-050-9D24B35E/jasprit-bumrah-india-ICC-mens-T20-cricket-world-cup-june-2024.jpg",
+    "origin": "India",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm Fast",
+    "battingStyle": "Right-handed",
+    "price": 1450
+  },
+  {
+    "playerName": "Jos Buttler",
+    "playerImg": "https://static.independent.co.uk/2026/02/02/11/cc9a9e7883e04120e7602d04c825cf32Y29udGVudHNlYXJjaGFwaSwxNzcwMDk1ODk0-2.80537282.jpg",
+    "origin": "England",
+    "playerType": "Wicketkeeper-Batsman",
+    "bowlingStyle": "Right-arm Medium",
+    "battingStyle": "Right-handed",
+    "price": 1250
+  },
+  {
+    "playerName": "Glenn Maxwell",
+    "playerImg": "https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2023/11/07/d9a59861-5e10-40a2-95af-6e5677eac516/maximagic.jpg",
+    "origin": "Australia",
+    "playerType": "All-Rounder",
+    "bowlingStyle": "Right-arm Off Break",
+    "battingStyle": "Right-handed",
+    "price": 1100
+  },
+  {
+    "playerName": "Trent Boult",
+    "playerImg": "https://cricinformer.com/wp-content/uploads/2022/11/trent-boalt.png",
+    "origin": "New Zealand",
+    "playerType": "Bowler",
+    "bowlingStyle": "Left-arm Fast Medium",
+    "battingStyle": "Left-handed",
+    "price": 1000
+  }
+]
