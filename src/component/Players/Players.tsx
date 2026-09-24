@@ -1,8 +1,6 @@
-
 import { use, useState } from "react";
 
 import type { IPlayer } from "../../Types/PlayerType";
-
 
 import Availableplayers from "./Availableplayers";
 
