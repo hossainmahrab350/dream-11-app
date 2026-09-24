@@ -1,6 +1,9 @@
 
 import { use, useState } from "react";
+
 import type { IPlayer } from "../../Types/PlayerType";
+
+
 import Availableplayers from "./Availableplayers";
 
 interface PlayerProps {
@@ -133,7 +136,7 @@ const Players = ({ playerPromise }: PlayerProps) => {
 
         <div className="flex justify-center">
 
-          <div className="bg-white border border-gray-200 rounded-xl shadow-sm px-7 py-3 min-w-[210px] text-center">
+          <div className="bg-white border border-gray-200 rounded-xl shadow-sm px-7 py-3 min-w-52.5 text-center">
 
             <p className="text-xs text-gray-500 font-medium">
               Available Balance
