@@ -5,7 +5,7 @@ import {
   FaBowlingBall,
 } from "react-icons/fa";
 
-import type { IPlayer } from "../../Types/Playertype";
+import type { IPlayer } from "../../Types/PlayerType";
 
 
 interface AvailablePlayersProps {
@@ -87,7 +87,9 @@ const Availableplayers = ({
 
                 <div className="flex items-center gap-2 mb-5">
 
-                  <FaUser className="text-purple-600 text-sm" />
+                 <span className="text-purple-600 text-sm">
+  <FaUser />
+</span>
 
                   <div>
 
@@ -115,7 +117,9 @@ const Availableplayers = ({
 
                     <div className="flex items-center gap-2 mb-1">
 
-                      <FaPen className="text-purple-500 text-xs" />
+                     <span className="text-purple-500 text-xs">
+  <FaPen />
+</span>
 
                       <span className="text-xs text-gray-400">
                         Batting
@@ -135,7 +139,9 @@ const Availableplayers = ({
 
                     <div className="flex items-center gap-2 mb-1">
 
-                      <FaBowlingBall className="text-purple-500 text-xs" />
+                    <span className="text-purple-500 text-xs">
+  <FaBowlingBall />
+</span>
 
                       <span className="text-xs text-gray-400">
                         Bowling
